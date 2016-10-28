@@ -1,0 +1,62 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.fotos{
+      border-top: 1px  solid #606060;
+    border-right: 1px  solid #606060;
+    border-left: 1px  solid #606060;
+     border-bottom:  1px  solid #606060;
+}
+.fotos:hover{
+    border-width: medium;
+    -webkit-transform: scale(1.5);
+}
+.bordas{
+    /*Colocando bordas*/
+    border-top: 1px  solid #606060;
+    border-right: 1px  solid #606060;
+    border-left: 1px  solid #606060;
+     border-bottom:  1px  solid #606060;
+     
+}
+footer{
+    padding-top: 20px;
+    border-top: 2px solid #606060;;
+}
+
+#album{
+    padding-left: 200px;
+    
+}
+#formContato{
+        width: 500px;
+	background-color:white; 
+	margin: -20px auto 0px auto;
+	box-shadow:  0px 0px 10px black; 
+	padding: 10px 10px 10px 10px;
+}
+body{
+    text-align: justify;
+/*    background-color: #CCC;*/
+}
+/*
+.interface{
+    
+       width: 1100px;
+	background-color:white; 
+	margin: -20px auto 0px auto;
+	box-shadow:  0px 0px 10px black; 
+	padding: 10px 10px 10px 10px;
+}
+
+
+
+*/
+
+
+
+
+
